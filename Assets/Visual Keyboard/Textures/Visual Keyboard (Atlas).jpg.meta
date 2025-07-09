@@ -1,0 +1,2767 @@
+fileFormatVersion: 2
+guid: 29585dae5f344da44892a0102e2a1846
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keyboard Classic - F!
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e0be9dfb480844483266b8de352731
+      internalID: 73425416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F8
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790329b9a69558a4b89a5b3403af2ab4
+      internalID: 924409022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - ESC
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e3ff28928466e45be5c46250163bc2
+      internalID: 371242280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 487
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e4080ccc78004ebbbf8158bc4ec30
+      internalID: 1878062690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4ca9c03f0a954a8ea17c028c6739a
+      internalID: -1798244055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d092955ae7973a94a9c77c8c02631b7f
+      internalID: -2093275363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45218eb6d9b64b43b6e0fac9bc83c62
+      internalID: -337402674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb790221397984ba1ce776ceea2c99
+      internalID: 398015109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 487
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58855723977b77409886d85ed176ba1
+      internalID: 1108219289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F9
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f404f3745f4f40a459c898a757797
+      internalID: -1581248863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F10
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7024aeddc8ab14ea4fa6158f7dbc37
+      internalID: -1358989083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F11
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 487
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5955e0a5367a446a5fd29fc2f4100c
+      internalID: -1937823840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - F12
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 487
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30f5d446b5fc5745b8e72b4312fad28
+      internalID: 785283319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Print Screen
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 487
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c797b25231b129418430fb2de210cfd
+      internalID: -2006938408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Scroll Lock
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 487
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309a42233f992e4c94ab4e01ec968fc
+      internalID: 980017313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Pause
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 486
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ca4970f5a94b4d8a405de0abd219b
+      internalID: 1394739533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Tilda
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 363
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d30918276b8e448dbe2936acc9351
+      internalID: -1933523446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 363
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e9ce29c44bf546855e5ade39fbc09
+      internalID: 2175666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 363
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6666ea708f15648ae9f7c03d2f6698
+      internalID: -164063153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 363
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6befe7410fbb17e4798331a43064218d
+      internalID: 1005120750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 363
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a72947c311932c4495bf6e368a3688b
+      internalID: 178798149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 363
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11fb624c83d52a4fa813e9e155dd2ef
+      internalID: -1808769513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 363
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd9a85544af9124e9f6a97def738fb1
+      internalID: -1507176830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 7
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 363
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dec6f339c5c4e48a0460a6e4eb71ae
+      internalID: 1213055408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 363
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3889cbc898b912a4983d38e724948e95
+      internalID: -1768327151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 363
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6a085eb218f2644a66bdcfc88c1400
+      internalID: 1668131744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - 0
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 363
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf242fd602c9ad4794b4223f8dd3001
+      internalID: -1609432358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Minus
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 363
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb74af9a37b2ee741b1117401d50f8d8
+      internalID: -138644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Plus Equal
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 363
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b8a06329017a4e813a969268f8801
+      internalID: -1743018608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Backspace
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 363
+        width: 163
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4bcc15c013b04193271396a2889f0
+      internalID: 1548884607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Insert
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 363
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d3953036f6de4f81030034b6946d1
+      internalID: 737797743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Home
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 363
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6e88dbec467ef47965e3c5dfabcad1
+      internalID: 1478954367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Page Up
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 363
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7961a82412b9f344f93ce20ea256d404
+      internalID: -282801965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Num Lock
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 362
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7390065d5ba464aaabefde0cc4c2ce
+      internalID: -817907559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad Divide
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 362
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da830206fbec804f91e08f1ba7d6689
+      internalID: -1703685953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad Multiply
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 362
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c87738e72c865d469df90bdb10ab9d5
+      internalID: 1195302844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad Minus
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 362
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9622cad869b14aa5972e21cd7612e
+      internalID: 869787708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad Plus
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 196
+        width: 80
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18916f4ed096044ba9df42d6f5f9a5d
+      internalID: -2051575871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad Enter
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 30
+        width: 80
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3a3611a21a2644a3803708236c363
+      internalID: -276555276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad Dot
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 30
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326fd4a7cc9c333429e6ed13b6f6d165
+      internalID: 1247550866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 0
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 29
+        width: 163
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780bce8672be4948a774d95a4327ba3
+      internalID: 316669778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 1
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 112
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d09e9342761f4a44a869fa6423bfca7
+      internalID: -345609142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 2
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 112
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569a03105514b84f88953419c7f59ef
+      internalID: -1460368263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 3
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 112
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180eaa81b0f4dd4baccc14173af3ade
+      internalID: -157138980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 4
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 195
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c679f9c8429444e4d8ed57c1312a3bbb
+      internalID: -599112990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 5
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 195
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b04e6cda1971b44a496d67cdf4cdf3
+      internalID: 773067614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 6
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 195
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db709e6dbfd95af4fa1c8ececfd7b4d6
+      internalID: -1989667411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 7
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 279
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebee5019c156dc4bb06321085d33c7c
+      internalID: -1844961342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 8
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 279
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f435d6e214fa4f84b865067619fe5
+      internalID: -994998811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Numpad 9
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 279
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78acf6708adb7af4b8e8e8720473967f
+      internalID: -1530627604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Delete
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 279
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1847387293130f248a8af729ee0112f9
+      internalID: -412192910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - End
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 279
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937df14f1ee1484d935a998a332e28d
+      internalID: 631768084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Page Down
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 279
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334b66da6c509a4b9b0a0600e0b539e
+      internalID: 1234915901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Arrow Up
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c278ab35461c3f4d94fc9e57bc73ef0
+      internalID: -752902452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Arrow Left
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 30
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6a5fabda918b45ac893e25b30632a
+      internalID: 46749622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Arrow Right
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 30
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c543a3614b5a54a8bb4dbc0ff5e5e8
+      internalID: -157496724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Arrow Down
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 30
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fb7c3eea4f8fd428dc15538b22df05
+      internalID: 1033414819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Tab
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 279
+        width: 122
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa5e9e054f6494a87db3c97406183d
+      internalID: 929460104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key Q
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177bf584d7d09a7449c23d002eaa3e77
+      internalID: 475826214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Caps Lock
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 196
+        width: 141
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cfc533ff6a7314e9dbcc5dbd79a0d5
+      internalID: -1584207579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Left Shift
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 113
+        width: 183
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35090fac5acd2c54bb796fa42997f8c8
+      internalID: 1909744655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Left CTRL
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 30
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983934bc55bfa84ca1d6ccd7ea09d73
+      internalID: 1747138467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Left System Win Mac Linux
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 30
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f216fc38fdf94469a48521015efa25
+      internalID: 2040105528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Left ALT
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 30
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a6499ec3b17824da9940c2c51ce5c2
+      internalID: -1270317707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Space
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 29
+        width: 516
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e191c44d9cd48ce4fae9be424c722920
+      internalID: -1101869576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Right ALT
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 30
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3e88494431a9459c2819444ad72af
+      internalID: 163073464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Menu
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 30
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d5679cdfa68934f9d32cfcc9a76d5a
+      internalID: 1458693361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Right CTRL
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 30
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256f04494a7e4543972e47f61db40fa
+      internalID: -1320515486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Right Shift
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 113
+        width: 226
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc2ab63c82fe94abedf83c10c0ccfe
+      internalID: 277935451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Right System Win Mac Linux
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 30
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb37f8fab7a70d45b5a30056a828e43
+      internalID: -645500507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Enter
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 196
+        width: 185
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b69979835825f3428d54e78b5c7ab0a
+      internalID: -1823696445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key W
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01821beb223ce124f86c0e9d0bd6bd18
+      internalID: -545004495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key E
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 280
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c87341a752c36d4781861bf3c7f7d62
+      internalID: 1165105283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key R
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 280
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908b9740c7478345bba567a37a96f1f
+      internalID: 1709155724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key T
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2b6b1bf7b1cd4cb0d2929964da28f
+      internalID: -71394815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key Y
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ce08aa7540d84f9447faf6c8b8349
+      internalID: 1062941249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key U
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ed3ef72e926d042bfc9cc5b2387d7f
+      internalID: 1948751539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key I
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ead704e6baf884fab830f521756bc5
+      internalID: 1284797583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key O
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88082712d47533f458328aab79556e09
+      internalID: -156960893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key P
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 280
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3c7c29b07c1dc4bbf9ad18e80598c1
+      internalID: 1104380559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key A
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 196
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40109678a290ad49bf1c893b67bffbf
+      internalID: 860678040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key S
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 196
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783e187c6ada5f4bb08e6adef5c7d51
+      internalID: -2057411102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key D
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 196
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f4a04d9d8d554fba63be5c0d959ea
+      internalID: -1468774508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key F
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 196
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28368d163ee40f5478bb721de1922062
+      internalID: -1254371420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key G
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 196
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610983a7db7be124490b8ee53a28740a
+      internalID: 1491528468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key H
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 196
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e8760c8345eb498eb0a2447f01903
+      internalID: -902214311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key J
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 196
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a5389a05fb9664697706ac3688972b
+      internalID: -841578802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key K
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 196
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb268ed1f77a58458505cb9b69749ec
+      internalID: 1389241814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key L
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 196
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb3f37ad3a836438a3f4a782c83638
+      internalID: 1993720640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key Z
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39267d5479a90342bdf9ed785631a98
+      internalID: -301989920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key X
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ff2a397de3bf47a25997f3d9d48bc
+      internalID: -438022209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key C
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d236d53085acc848914d675047edbae
+      internalID: 611434999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key V
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 113
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a9c007e8f16284b8b5a5b39dd2aa42
+      internalID: 1539282998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key B
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238dcfc8ebc893f4a99dd5c9414743bf
+      internalID: 328005682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key N
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e56cc065ad244b9b51702e57b0c39
+      internalID: -545886332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - key M
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1443c19c4f87745bf1a3c0823df503
+      internalID: -1964411978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Bracket Left
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 280
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2d569c7b3bc14b8e10c81cff99c59
+      internalID: -159339770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Bracket Right
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 280
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb7c4997c7eb647bd70c700223340d
+      internalID: 452541404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Question
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 113
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6139c390d3df9419211053962db1f4
+      internalID: -1100331638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Mark Left
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720f8935c1be174fa712bd220cb0f85
+      internalID: -124778754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Mark Right
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 113
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac316dc8096458940a5b8dd6264cd179
+      internalID: 2095827424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Quote
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 196
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e08afb732714449026a920614901e
+      internalID: -170281448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Semicolon
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 196
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44d5cf51559b348a13583bd29c26c1
+      internalID: -511614822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard Classic - Backslash
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 280
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633af7c397a3ec43ad5eaa7cf17c233
+      internalID: 1783201944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":20.0,"y":10.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      Keyboard 03 - Atlas_1: -1336238515
+      Keyboard 03 - Atlas_10: -1691110536
+      Keyboard 03 - Atlas_100: -1358675040
+      Keyboard 03 - Atlas_101: 2044584855
+      Keyboard 03 - Atlas_102: 1073719726
+      Keyboard 03 - Atlas_103: -351308337
+      Keyboard 03 - Atlas_104: -1361820865
+      Keyboard 03 - Atlas_105: -1022129262
+      Keyboard 03 - Atlas_106: 1544434541
+      Keyboard 03 - Atlas_107: 1380538837
+      Keyboard 03 - Atlas_108: 370306242
+      Keyboard 03 - Atlas_109: 86482134
+      Keyboard 03 - Atlas_11: -1796402434
+      Keyboard 03 - Atlas_110: 545914581
+      Keyboard 03 - Atlas_111: -431755360
+      Keyboard 03 - Atlas_112: -1683976434
+      Keyboard 03 - Atlas_113: -1642789704
+      Keyboard 03 - Atlas_114: -1395031238
+      Keyboard 03 - Atlas_115: 817762397
+      Keyboard 03 - Atlas_116: -2017482480
+      Keyboard 03 - Atlas_117: 1981607105
+      Keyboard 03 - Atlas_118: 1458199637
+      Keyboard 03 - Atlas_119: 1098400796
+      Keyboard 03 - Atlas_12: -54585406
+      Keyboard 03 - Atlas_120: 1221138168
+      Keyboard 03 - Atlas_121: -623496292
+      Keyboard 03 - Atlas_122: 765764686
+      Keyboard 03 - Atlas_123: 1582938657
+      Keyboard 03 - Atlas_124: -564580856
+      Keyboard 03 - Atlas_125: -92824047
+      Keyboard 03 - Atlas_126: 1768870228
+      Keyboard 03 - Atlas_127: 2134428060
+      Keyboard 03 - Atlas_128: -1199848910
+      Keyboard 03 - Atlas_129: -1302992232
+      Keyboard 03 - Atlas_13: 289066363
+      Keyboard 03 - Atlas_130: -2046405797
+      Keyboard 03 - Atlas_131: 1944397745
+      Keyboard 03 - Atlas_132: -1985429335
+      Keyboard 03 - Atlas_133: 944549904
+      Keyboard 03 - Atlas_134: -646309176
+      Keyboard 03 - Atlas_135: -1257231848
+      Keyboard 03 - Atlas_136: -957675925
+      Keyboard 03 - Atlas_137: -608045942
+      Keyboard 03 - Atlas_138: 993746996
+      Keyboard 03 - Atlas_139: 687071066
+      Keyboard 03 - Atlas_140: -1332657639
+      Keyboard 03 - Atlas_141: -829299244
+      Keyboard 03 - Atlas_142: 1145640970
+      Keyboard 03 - Atlas_143: 307741316
+      Keyboard 03 - Atlas_144: 1622211850
+      Keyboard 03 - Atlas_145: -221221803
+      Keyboard 03 - Atlas_146: 1736665357
+      Keyboard 03 - Atlas_147: -721676770
+      Keyboard 03 - Atlas_148: 1367675446
+      Keyboard 03 - Atlas_149: -1874651904
+      Keyboard 03 - Atlas_15: -1513267332
+      Keyboard 03 - Atlas_150: -1619791419
+      Keyboard 03 - Atlas_151: 524519403
+      Keyboard 03 - Atlas_152: 322408630
+      Keyboard 03 - Atlas_153: -1945441443
+      Keyboard 03 - Atlas_154: -1198339695
+      Keyboard 03 - Atlas_155: -854030096
+      Keyboard 03 - Atlas_156: -17771043
+      Keyboard 03 - Atlas_157: 662418145
+      Keyboard 03 - Atlas_158: 981251353
+      Keyboard 03 - Atlas_159: 6683544
+      Keyboard 03 - Atlas_16: -485602972
+      Keyboard 03 - Atlas_160: 1199877759
+      Keyboard 03 - Atlas_161: 1265700553
+      Keyboard 03 - Atlas_162: 1284890203
+      Keyboard 03 - Atlas_163: 741357312
+      Keyboard 03 - Atlas_164: -97624957
+      Keyboard 03 - Atlas_165: 1994497834
+      Keyboard 03 - Atlas_166: 566311322
+      Keyboard 03 - Atlas_167: -1281865676
+      Keyboard 03 - Atlas_168: 1975924654
+      Keyboard 03 - Atlas_169: 678039089
+      Keyboard 03 - Atlas_17: 1713616668
+      Keyboard 03 - Atlas_170: 1624377782
+      Keyboard 03 - Atlas_171: -1692288854
+      Keyboard 03 - Atlas_172: 702339955
+      Keyboard 03 - Atlas_173: -891426652
+      Keyboard 03 - Atlas_174: -1063795411
+      Keyboard 03 - Atlas_175: 2140667130
+      Keyboard 03 - Atlas_176: -101154651
+      Keyboard 03 - Atlas_177: -997893695
+      Keyboard 03 - Atlas_178: 1942736883
+      Keyboard 03 - Atlas_179: 1410705940
+      Keyboard 03 - Atlas_18: -1518712793
+      Keyboard 03 - Atlas_180: 1228288941
+      Keyboard 03 - Atlas_181: -573484058
+      Keyboard 03 - Atlas_182: 1948835947
+      Keyboard 03 - Atlas_183: -595522673
+      Keyboard 03 - Atlas_184: -896623911
+      Keyboard 03 - Atlas_185: -2040931241
+      Keyboard 03 - Atlas_186: -607790240
+      Keyboard 03 - Atlas_187: -1030892809
+      Keyboard 03 - Atlas_188: -289942890
+      Keyboard 03 - Atlas_189: -285024839
+      Keyboard 03 - Atlas_19: 231869244
+      Keyboard 03 - Atlas_190: 365773234
+      Keyboard 03 - Atlas_191: 1899867410
+      Keyboard 03 - Atlas_192: 1491973250
+      Keyboard 03 - Atlas_193: 1149968941
+      Keyboard 03 - Atlas_194: -500908255
+      Keyboard 03 - Atlas_195: 158076309
+      Keyboard 03 - Atlas_196: 944716260
+      Keyboard 03 - Atlas_197: 1092384309
+      Keyboard 03 - Atlas_198: -743664026
+      Keyboard 03 - Atlas_199: -2062791610
+      Keyboard 03 - Atlas_2: 1137966568
+      Keyboard 03 - Atlas_20: -410927210
+      Keyboard 03 - Atlas_200: -581110767
+      Keyboard 03 - Atlas_201: -204551776
+      Keyboard 03 - Atlas_202: 1978692595
+      Keyboard 03 - Atlas_203: -261198925
+      Keyboard 03 - Atlas_204: 1765450870
+      Keyboard 03 - Atlas_205: -718380101
+      Keyboard 03 - Atlas_206: -1364191853
+      Keyboard 03 - Atlas_207: 424660055
+      Keyboard 03 - Atlas_208: 413988823
+      Keyboard 03 - Atlas_209: 9839460
+      Keyboard 03 - Atlas_21: -674440068
+      Keyboard 03 - Atlas_210: 1737825851
+      Keyboard 03 - Atlas_211: -1570444645
+      Keyboard 03 - Atlas_212: 2077656747
+      Keyboard 03 - Atlas_213: 1659430477
+      Keyboard 03 - Atlas_214: 1959923323
+      Keyboard 03 - Atlas_215: 1547657686
+      Keyboard 03 - Atlas_22: -445175329
+      Keyboard 03 - Atlas_23: -520235625
+      Keyboard 03 - Atlas_24: 443538129
+      Keyboard 03 - Atlas_25: -967450249
+      Keyboard 03 - Atlas_26: -1910623592
+      Keyboard 03 - Atlas_28: -895973737
+      Keyboard 03 - Atlas_29: 2063228393
+      Keyboard 03 - Atlas_30: -300533096
+      Keyboard 03 - Atlas_34: 1417300502
+      Keyboard 03 - Atlas_36: 720619045
+      Keyboard 03 - Atlas_39: 2139289609
+      Keyboard 03 - Atlas_4: 1164525326
+      Keyboard 03 - Atlas_40: -1343126293
+      Keyboard 03 - Atlas_45: -920384488
+      Keyboard 03 - Atlas_46: -830937106
+      Keyboard 03 - Atlas_47: 128201040
+      Keyboard 03 - Atlas_48: -574826732
+      Keyboard 03 - Atlas_49: 277709942
+      Keyboard 03 - Atlas_5: -386852454
+      Keyboard 03 - Atlas_50: -2111582912
+      Keyboard 03 - Atlas_51: -1717583108
+      Keyboard 03 - Atlas_52: -1401102623
+      Keyboard 03 - Atlas_53: -787035872
+      Keyboard 03 - Atlas_54: -1463500147
+      Keyboard 03 - Atlas_55: 488495086
+      Keyboard 03 - Atlas_56: 1062427423
+      Keyboard 03 - Atlas_57: 1523253543
+      Keyboard 03 - Atlas_58: 1961902775
+      Keyboard 03 - Atlas_59: -367085566
+      Keyboard 03 - Atlas_6: -52279980
+      Keyboard 03 - Atlas_60: 1199600641
+      Keyboard 03 - Atlas_61: -1895349638
+      Keyboard 03 - Atlas_62: -814311227
+      Keyboard 03 - Atlas_63: -2103639994
+      Keyboard 03 - Atlas_64: -558119943
+      Keyboard 03 - Atlas_65: -476204512
+      Keyboard 03 - Atlas_66: 1110880842
+      Keyboard 03 - Atlas_67: 129942242
+      Keyboard 03 - Atlas_68: -137362144
+      Keyboard 03 - Atlas_69: -1659281072
+      Keyboard 03 - Atlas_7: 611991888
+      Keyboard 03 - Atlas_70: 2079561348
+      Keyboard 03 - Atlas_71: 957269795
+      Keyboard 03 - Atlas_72: -22120211
+      Keyboard 03 - Atlas_73: 1551700372
+      Keyboard 03 - Atlas_74: 1114665408
+      Keyboard 03 - Atlas_75: 880353340
+      Keyboard 03 - Atlas_76: -1450452009
+      Keyboard 03 - Atlas_77: 652273856
+      Keyboard 03 - Atlas_78: 135559645
+      Keyboard 03 - Atlas_79: 1896258052
+      Keyboard 03 - Atlas_8: 66948445
+      Keyboard 03 - Atlas_80: -1045973136
+      Keyboard 03 - Atlas_81: 986208763
+      Keyboard 03 - Atlas_82: -1186050371
+      Keyboard 03 - Atlas_83: 1058455577
+      Keyboard 03 - Atlas_84: 1670975256
+      Keyboard 03 - Atlas_85: 1565248141
+      Keyboard 03 - Atlas_86: -1241423475
+      Keyboard 03 - Atlas_87: 615891775
+      Keyboard 03 - Atlas_88: -805716866
+      Keyboard 03 - Atlas_89: 2061156049
+      Keyboard 03 - Atlas_9: -1738057439
+      Keyboard 03 - Atlas_90: 1042263421
+      Keyboard 03 - Atlas_91: 464579243
+      Keyboard 03 - Atlas_92: -1448465943
+      Keyboard 03 - Atlas_93: 778710400
+      Keyboard 03 - Atlas_94: -2133755366
+      Keyboard 03 - Atlas_95: -1741763609
+      Keyboard 03 - Atlas_96: -1917174817
+      Keyboard 03 - Atlas_97: -1115833584
+      Keyboard 03 - Atlas_98: -1857385042
+      Keyboard 03 - Atlas_99: 1119912747
+      Keyboard Classic - 0: -1609432358
+      Keyboard Classic - 1: 2175666
+      Keyboard Classic - 2: -164063153
+      Keyboard Classic - 3: 1005120750
+      Keyboard Classic - 4: 178798149
+      Keyboard Classic - 5: -1808769513
+      Keyboard Classic - 6: -1507176830
+      Keyboard Classic - 7: 1213055408
+      Keyboard Classic - 8: -1768327151
+      Keyboard Classic - 9: 1668131744
+      Keyboard Classic - Arrow Down: 1033414819
+      Keyboard Classic - Arrow Left: 46749622
+      Keyboard Classic - Arrow Right: -157496724
+      Keyboard Classic - Arrow Up: -752902452
+      Keyboard Classic - Backslash: 1783201944
+      Keyboard Classic - Backspace: 1548884607
+      Keyboard Classic - Bracket Left: -159339770
+      Keyboard Classic - Bracket Right: 452541404
+      Keyboard Classic - Caps Lock: -1584207579
+      Keyboard Classic - Delete: -412192910
+      Keyboard Classic - ESC: 371242280
+      Keyboard Classic - End: 631768084
+      Keyboard Classic - Enter: -1823696445
+      Keyboard Classic - F!: 73425416
+      Keyboard Classic - F10: -1358989083
+      Keyboard Classic - F11: -1937823840
+      Keyboard Classic - F12: 785283319
+      Keyboard Classic - F2: 1878062690
+      Keyboard Classic - F3: -1798244055
+      Keyboard Classic - F4: -2093275363
+      Keyboard Classic - F5: -337402674
+      Keyboard Classic - F6: 398015109
+      Keyboard Classic - F7: 1108219289
+      Keyboard Classic - F8: 924409022
+      Keyboard Classic - F9: -1581248863
+      Keyboard Classic - Home: 1478954367
+      Keyboard Classic - Insert: 737797743
+      Keyboard Classic - Left ALT: -1270317707
+      Keyboard Classic - Left CTRL: 1747138467
+      Keyboard Classic - Left Shift: 1909744655
+      Keyboard Classic - Left System Win Mac Linux: 2040105528
+      Keyboard Classic - Mark Left: -124778754
+      Keyboard Classic - Mark Right: 2095827424
+      Keyboard Classic - Menu: 1458693361
+      Keyboard Classic - Minus: -138644
+      Keyboard Classic - Num Lock: -817907559
+      Keyboard Classic - Numpad 0: 316669778
+      Keyboard Classic - Numpad 1: -345609142
+      Keyboard Classic - Numpad 2: -1460368263
+      Keyboard Classic - Numpad 3: -157138980
+      Keyboard Classic - Numpad 4: -599112990
+      Keyboard Classic - Numpad 5: 773067614
+      Keyboard Classic - Numpad 6: -1989667411
+      Keyboard Classic - Numpad 7: -1844961342
+      Keyboard Classic - Numpad 8: -994998811
+      Keyboard Classic - Numpad 9: -1530627604
+      Keyboard Classic - Numpad Divide: -1703685953
+      Keyboard Classic - Numpad Dot: 1247550866
+      Keyboard Classic - Numpad Enter: -276555276
+      Keyboard Classic - Numpad Minus: 869787708
+      Keyboard Classic - Numpad Multiply: 1195302844
+      Keyboard Classic - Numpad Plus: -2051575871
+      Keyboard Classic - Page Down: 1234915901
+      Keyboard Classic - Page Up: -282801965
+      Keyboard Classic - Pause: 1394739533
+      Keyboard Classic - Plus Equal: -1743018608
+      Keyboard Classic - Print Screen: -504893117
+      Keyboard Classic - Question: -1100331638
+      Keyboard Classic - Quote: -170281448
+      Keyboard Classic - Right ALT: 163073464
+      Keyboard Classic - Right CTRL: -1320515486
+      Keyboard Classic - Right Shift: 277935451
+      Keyboard Classic - Right System Win Mac Linux: -645500507
+      Keyboard Classic - Scroll Lock: 980017313
+      Keyboard Classic - Semicolon: -511614822
+      Keyboard Classic - Space: -1101869576
+      Keyboard Classic - Tab: 929460104
+      Keyboard Classic - Tilda: -1933523446
+      Keyboard Classic - key A: 860678040
+      Keyboard Classic - key B: 328005682
+      Keyboard Classic - key C: 611434999
+      Keyboard Classic - key D: -1468774508
+      Keyboard Classic - key E: 1165105283
+      Keyboard Classic - key F: -1254371420
+      Keyboard Classic - key G: 1491528468
+      Keyboard Classic - key H: -902214311
+      Keyboard Classic - key I: 1284797583
+      Keyboard Classic - key J: -841578802
+      Keyboard Classic - key K: 1389241814
+      Keyboard Classic - key L: 1993720640
+      Keyboard Classic - key M: -1964411978
+      Keyboard Classic - key N: -545886332
+      Keyboard Classic - key O: -156960893
+      Keyboard Classic - key P: 1104380559
+      Keyboard Classic - key Q: 475826214
+      Keyboard Classic - key R: 1709155724
+      Keyboard Classic - key S: -2057411102
+      Keyboard Classic - key T: -71394815
+      Keyboard Classic - key U: 1948751539
+      Keyboard Classic - key V: 1539282998
+      Keyboard Classic - key W: -545004495
+      Keyboard Classic - key X: -438022209
+      Keyboard Classic - key Y: 1062941249
+      Keyboard Classic - key Z: -301989920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
