@@ -82,7 +82,7 @@ namespace VisualKeyboard
             }
 
             // Backspace?
-            if (key.oldKeyCode is KeyCode.Backspace) {
+            if (key.oldKeyCode is KeyCode.Backspace && inputTextLabel.text.Length > 0) {
                 inputTextLabel.text = inputTextLabel.text.Substring(0, inputTextLabel.text.Length - 1);
             }
 
@@ -141,8 +141,7 @@ namespace VisualKeyboard
             // Debug.Log($"Key was not found for path {path} (device '{name}')", gameObject);
             return null;
         }
-
-
+        
         #region Editor
 #if UNITY_EDITOR
 
@@ -206,6 +205,34 @@ namespace VisualKeyboard
             EditorUtility.SetDirty(this.gameObject);
 #endif
         }
+
+        //[Header("Replacing")]
+        //public List<Sprite> newSprites;
+
+        //[ContextMenu("Replace sprites")]
+        //void Replace() {
+        //    int success = 0;
+        //    int errors = 0;
+        //    foreach (VisualKeyForKeyboard key in keys) {
+        //        bool done = false;
+        //        foreach (Sprite newSprite in newSprites) {
+        //            // Debug.Log($"Processing key. Its sprite name: {key.image.sprite.name}", key.gameObject);
+        //            if (newSprite.name == key.image.sprite.name) {
+        //                key.image.sprite = newSprite;
+        //                success++;
+        //                EditorUtility.SetDirty(key);
+        //                EditorUtility.SetDirty(key.gameObject);
+        //                done = true;
+        //                break;
+        //            }
+        //        }
+        //        if (!done) {
+        //            errors++;
+        //            Debug.Log($"Didn't replace sprite for key {key.gameObject.name}", key.gameObject);
+        //        }
+        //    }
+        //    Debug.Log($"Job is done. {success} sprites were replaced. Errors: {errors}", gameObject);
+        //}
 
         //        [ContextMenu("Editor - Calculate keys' normalized positions")]
         //        private void Editor_CalculateNormalizedPosition() {

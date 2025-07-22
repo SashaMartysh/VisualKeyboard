@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Visual Keyboard/Visual Keyboard - Demo.unity
+    guid: 491d5c26fd76001458080d96acaf760b
   m_configObjects: {}
